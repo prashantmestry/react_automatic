@@ -9,4 +9,4 @@ https://github.com/prashantmestry/react_automatic
 
 local folder :
 
-/Users/mestrpra/pgm/git_project/react-automatic
+/Users/mestrpra/pgm/react_automatic
